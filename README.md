@@ -2,6 +2,6 @@ I make modern JavaScript apps and deploy them to the internet, desktop, and mobi
 
 ###### Downloads: [Cardinal Server](https://github.com/somebeaver/Cardinal-Server) | [Cardinal Music](https://github.com/somebeaver/Cardinal-Music)
 
-###### Feedback: [Cardinal Feedback](https://github.com/somebeaver/Cardinal-Feedback)
+###### Feedback: [Cardinal Project](https://github.com/somebeaver/Cardinal-Project)
 
 ###### Help Translate Cardinal: [Cardinal i18n](https://github.com/somebeaver/Cardinal-i18n) 
