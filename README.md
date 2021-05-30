@@ -4,4 +4,4 @@ I make modern JavaScript apps and deploy them to the internet, desktop, and mobi
 
 ###### Technicals: [Cardinal Project](https://github.com/somebeaver/Cardinal-Project)
 
-###### Help Translate: [cardinal-i18n](https://github.com/somebeaver/Cardinal-i18n)
+###### Help Translate: [cardinal-i18n](https://github.com/somebeaver/cardinal-i18n)
