@@ -1,4 +1,4 @@
-Hey. I make JavaScript apps.
+I made this:
 
 [cardinalapps.xyz](https://cardinalapps.xyz) | [Cardinal GitHub](https://github.com/CardinalApps)
 
