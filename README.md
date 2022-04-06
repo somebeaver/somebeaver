@@ -1,5 +1,3 @@
-I made this:
+I made this: [cardinalapps.io](https://cardinalapps.io)
 
-[cardinalapps.xyz](https://cardinalapps.xyz) | [Cardinal GitHub](https://github.com/CardinalApps)
-
-Try an app: [Cardinal Server](https://cardinalapps.xyz/en/cardinal-server) | [Cardinal Music](https://cardinalapps.xyz/en/cardinal-music)
+Try an app: [Cardinal Server](https://cardinalapps.io/en/cardinal-server) | [Cardinal Music](https://cardinalapps.io/en/cardinal-music)
